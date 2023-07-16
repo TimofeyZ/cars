@@ -1,0 +1,167 @@
+
+
+
+body{
+    background-image: url("ж2.jpg");
+    background-size: cover;
+    background-attachment: fixed;
+    text-align: center;
+    
+    
+    
+    
+    
+    }
+
+    a{
+        /* декорация текста */
+    text-decoration: none;
+    font-size: 35px;
+    
+    /* цвет */
+    color: rgb(255, 255, 255);
+    font-family: 'Roboto Condensed', sans-serif;
+    display: inline-block;
+    background-color: rgb(236, 148, 15);
+    padding-left: 10px;
+    padding-right: 10px;
+    border-radius: 1000px;
+    box-shadow: 0 0 10px black;
+    transition: 0.5s;
+    }
+    a:hover{
+box-shadow:  0 0 0 black;
+
+
+
+
+    }
+
+    h1{
+        /* выровнять текст */
+    text-align: center;
+    font-size: 50px;
+    /* шрифт кабламмо */
+    font-family: 'Kablammo', cursive;
+    /* font-family: 'Roboto Condensed', sans-serif; */
+    color: darkgreen;
+    
+    
+    
+    }
+
+img{
+display: block;
+width: 700px;
+border-radius: 20px;
+margin: auto;
+}
+
+
+
+h3{
+text-align: center;
+font-size: 35px;
+font-family: 'Roboto Condensed', sans-serif;
+background-color: rgb(247, 247, 247);
+display: inline-block;
+padding-left: 10px;
+padding-right: 10px;
+border-radius: 5px;
+
+}
+li{
+margin-bottom: 20px;
+font-family: 'Roboto Condensed', sans-serif;
+text-align: left;
+}
+
+
+
+iframe{
+    margin: auto;
+    display: block;
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
